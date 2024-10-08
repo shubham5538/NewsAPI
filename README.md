@@ -18,6 +18,11 @@ A web application that fetches and displays real-time news headlines using the [
 - **CSS**: Custom styles for responsive design
 - **Additional Libraries**: Axios for API calls, react-loader-spinner for loading indicators.
 
+
+## Output
+![image](https://github.com/user-attachments/assets/6b490fdc-c27f-4de5-95ee-ed2a8f522f49)
+
+
 ## Setup Instructions
 
 To set up and run the application locally, follow these steps:
